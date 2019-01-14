@@ -1,0 +1,118 @@
+
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js movie-this 
+Title: Departed
+Release Year: 2017
+IMDb Rating: N/A
+Rotten Tomatoes Rating: undefined
+Country: Canada, Venezuela
+Language: Spanish
+Plot: A student filmmaker sets out to explore the crisis in Venezuela and shed light on those who are still suffering in her home country.r/nPlot: A student filmmaker sets out to explore the crisis in Venezuela and shed light on those who are still suffering in her home country.
+Actors: N/A
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js movie-this 
+Title: Departed
+Release Year: 2017
+IMDb Rating: N/A
+Rotten Tomatoes Rating: undefined
+Country: Canada, Venezuela
+Language: Spanish
+Plot: A student filmmaker sets out to explore the crisis in Venezuela and shed light on those who are still suffering in her home country.r/nPlot: A student filmmaker sets out to explore the crisis in Venezuela and shed light on those who are still suffering in her home country.
+Actors: N/A
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+red+hot+chili+peppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+red+hot+chili+peppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atDerwent Entertainment Centre, Glenorchy, , Australia
+02/17/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
