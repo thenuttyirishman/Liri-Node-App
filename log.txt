@@ -116,3 +116,57 @@ undefined
 undefined
 undefinedr/nundefined
 undefined
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js movie-this 
+Title: The Mask
+Release Year: 1994
+IMDb Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.r/nPlot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+C:\Program Files\nodejs\node.exe c:\Users\mattg\Desktop\Liri-Node-App\liri.js concert-this 
+Red Hot Chili PeppersPlaying atHard Rock Stadium, Miami Gardens, FL, United States
+04/20/19
+undefined
+undefined
+undefined
+undefined
+undefinedr/nundefined
+undefined
+C:\Program Files\nodejs\node.exe C:\Users\mattg\Desktop\Liri-Node-App\liri.js movie-this 
+Title: Mask
+Release Year: 1985
+IMDb Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English
+Plot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.r/nPlot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.
+Actors: Cher, Sam Elliott, Eric Stoltz, Estelle Getty
+C:\Program Files\nodejs\node.exe C:\Users\mattg\Desktop\Liri-Node-App\liri.js movie-this 
+Title: Mask
+Release Year: 1985
+IMDb Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English
+Plot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.r/nPlot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.
+Actors: Cher, Sam Elliott, Eric Stoltz, Estelle Getty
+C:\Program Files\nodejs\node.exe C:\Users\mattg\Desktop\Liri-Node-App\liri.js movie-this 
+Title: Mask
+Release Year: 1985
+IMDb Rating: 7.2
+Rotten Tomatoes Rating: [object Object]
+Country: USA
+Language: English
+Plot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.r/nPlot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.
+Actors: Cher, Sam Elliott, Eric Stoltz, Estelle Getty
+C:\Program Files\nodejs\node.exe C:\Users\mattg\Desktop\Liri-Node-App\liri.js movie-this 
+Title: Mask
+Release Year: 1985
+IMDb Rating: 7.2
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English
+Plot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.r/nPlot: A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.
+Actors: Cher, Sam Elliott, Eric Stoltz, Estelle Getty

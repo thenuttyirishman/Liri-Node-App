@@ -23,7 +23,7 @@ var line5;
 var line6;
 var line7;
 var line8;
-//1/14 tutor session
+
 //
 var inputArr = process.argv.splice(3);
 console.log(inputArr);
@@ -31,7 +31,7 @@ console.log(inputArr);
 console.log(inputArr.length);
 // For loop for user input
 for (i = 0; i < inputArr.length; i++) {
-    if (i < inputArr.length - 1) { 
+    if (i < inputArr.length - 1) {
         inputString += (inputArr[i] + "+");
     } else {
         inputString += inputArr[i];
@@ -39,7 +39,7 @@ for (i = 0; i < inputArr.length; i++) {
 
 };
 //
-// 
+// For loop 
 var commandLine = "";
 for (i = 0; i < process.argv.length; i++) {
     commandLine += (process.argv[i] + " ");
@@ -94,14 +94,14 @@ function spotifyThis() {
     if (searchItem) {
         searchItem = "My Friends by Red Hot Chili Peppers"
     }
-    spotify.search({ type: "track", query: inputString}, function (err, response) {
+    spotify.search({ type: "track", query: inputString }, function (err, response) {
         if (err) {
             return console.log('Error Occurred: ' + err);
         }
         line1 = "\ninputStrings: " + JSON.stringify(response.tracks.items[0].inputString[0].name);
         line2 = "\nSong: " + JSON.stringify(response.tracks.items[0].name[0].song);
         line3 = "\nSpotify sample: " + JSON.stringify(response.tracks.items[0].name.album.inputString[0].external_urls.spotify);
-        line4 = "\nAlbum: " + JSON.stringify(response.tracks.items[0].album.inputStrings);
+        line4 = "\nAlbum: " + JSON.stringify(response.tracks.items[0].album.inputStrings[0].album);
         console.log(line1);
         console.log(line2);
         console.log(line3);
@@ -116,10 +116,11 @@ function movieThis() {
     }
     request("http://www.omdbapi.com/?t=" + inputString + "&y=&plot=short&apikey=trilogy", function (error, response, body) {
         if (!error && response.statusCode === 200) {
+            console.log("Yo", response);
             line1 = "Title: " + JSON.parse(body).Title;
             line2 = "Release Year: " + JSON.parse(body).Year;
             line3 = "IMDb Rating: " + JSON.parse(body).imdbRating;
-            line4 = "Rotten Tomatoes Rating: " + JSON.parse(body).Rating;
+            line4 = "Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value;
             line5 = "Country: " + JSON.parse(body).Country;
             line6 = "Language: " + JSON.parse(body).Language;
             line7 = "Plot: " + JSON.parse(body).Plot;
